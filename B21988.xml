@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration. The Lords and Commons assembled in Parliament, do hereby order and declare, that all Commissioners of the Admiralty and Navy, the Committee for the Army, the Commissioners for Appeals and Regulation of Excise and Customs; ...</title>
+            <title>Proceedings. 1660-05-11.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 2KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21988</idno><idno type="EEBO-CITATION">99825965</idno>
+  <idno type="VID">206011</idno>
+  <idno type="EEBO-PROQUEST">2240912946</idno>
+  
+            <idno type="STC">Wing E1518A</idno>
+            <idno type="PROQUEST">99825965</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99825965e"/>
+            <note>(EEBO-TCP ; phase 2, no. B21988)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206011)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1758:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration. The Lords and Commons assembled in Parliament, do hereby order and declare, that all Commissioners of the Admiralty and Navy, the Committee for the Army, the Commissioners for Appeals and Regulation of Excise and Customs; ...</title>
+                  <title>Proceedings. 1660-05-11.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed by John Macock, and Francis Tyton, printers to the House of Lords,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Title from heading and first lines of text.</note>
+                  <note>Order to print dated: Die Veneris, 11 Maii 1660.</note>
+                  <note>Identified on UMI microfilm (Early English books, 1641-1700) reel 1758 as Wing E1633.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:206011:1"/>
+            <head>
+               <figure>
+                  <figDesc>coat of arms of England, 1643</figDesc>
+                  <p>
+                     <gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>NI SOIT QVI MAL Y PENSE</p>
+                  <p>DIEV ET MON DROIT</p>
+               </figure>
+            </head>
+            <head>❧ A Declaration.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Lords and Commons assembled in Parliament, do hereby Order and Declare, That all Commissioners of the Admiralty and Navy, the Committeé for the Army, the Com<g ref="char:EOLhyphen"/>missioners for Appeals and Regulation of Excise and Customes; the Commissioners for the Customes and Excise, the Commissioners for the Monethly Assessments, and all other Commissioners, Committeés, and Officers whatsoever relating to the Excise, or any other part of the Revenue, or to the Army or Navy, that were in Office and Imployment the <hi>25<seg rend="sup">th</seg>
+               </hi> day of <hi>April</hi> 1660. shall and are hereby Authorised &amp; Required to proceéd forthwith in the Execution of their respective Commissions, Offices and Imployments, and shall exercise the same in the Kings Majesties Name and Stile, according to the respective Powers, Authorities, and Instru<g ref="char:EOLhyphen"/>ctions to them, or any of them, formerly given or mentioned to be given, and in being the said <hi>25<seg rend="sup">th</seg>
+               </hi> day of <hi>April</hi> 1660. untill further Order.</p>
+         </div>
+      </body>
+      <back>
+         <div type="license" subtype="order_to_print">
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Die Veneris,</hi> 11 <hi>Maii</hi> 1660.</date>
+               </dateline>
+            </opener>
+            <p>
+               <hi>ORdered by the Lords and Commons Assembled in Parliament,</hi> That this Declaration be forthwith Printed and Published.</p>
+            <closer>
+               <signed>Jo. BROWNE, <hi>Cleric. Parliamentorum.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>John Macock,</hi> and <hi>Francis Tyton,</hi> Printers to the House of Lords, 1660.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
